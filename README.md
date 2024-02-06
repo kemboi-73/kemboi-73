@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **kemboimikey@gmail.com**
 
+- I'm Open to colaborating on Projects
+
 - ⚡ Fun fact **Am secretly Batman but dont tell anyone**
 
 <h3 align="left">Connect with me:</h3>

@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **API integrations**
 
-- 👨‍💻 All of my projects are available at [https://mike254.netlify.app/](https://mike254.netlify.app/)
+
 
 - 💬 Ask me about **Python,**
 

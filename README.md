@@ -15,6 +15,8 @@
 
 - I'm Open to colaborating on Projects
 
+- 📄 Know about my experiences **https://www.linkedin.com/in/kemboimikey/**
+
 - ⚡ Fun fact **Am secretly Batman but dont tell anyone**
 
 <h3 align="left">Connect with me:</h3>

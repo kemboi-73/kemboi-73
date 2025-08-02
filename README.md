@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Python,**
 
-- 📫 How to reach me **kemboimikey@gmail.com**
+- 📫 How to reach me **mike@kemboi.dev**
 
 - I'm Open to colaborating on Projects
 

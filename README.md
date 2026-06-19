@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kemboi Michael</h1>
-<h3 align="center">I am a software Engineer passionate about problem-solving and dedicated to delivering software solutions that make a positive impact in today's digital landscape</h3>
+<h3 align="center">A motivated learner with a strong interest in technology and problem-solving, exploring how software and digital tools can help understand and work through real-world challenges</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kemboi-73&label=Profile%20views&color=0e75b6&style=flat" alt="kemboi-73" /> </p>
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kemboimikey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kemboimikey" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/kemboimikey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kemboimikey" height="30" width="40" /></a>
 </p>
 
